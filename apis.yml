@@ -1,0 +1,32 @@
+aid: github-contribution-chart-generator
+name: GitHub Contribution Chart Generator
+description: "Create an image of your GitHub contributions"
+url: https://github-contributions.vercel.app
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Source Projects"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Source Projects
+  - Public APIs
+apis:
+  - name: GitHub Contribution Chart Generator
+    description: "Create an image of your GitHub contributions"
+    humanURL: https://github-contributions.vercel.app
+    baseURL: https://github-contributions.vercel.app
+    tags:
+      - Open Source Projects
+    properties:
+      - type: Documentation
+        url: https://github-contributions.vercel.app
+common:
+  - type: Website
+    url: https://github-contributions.vercel.app
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
