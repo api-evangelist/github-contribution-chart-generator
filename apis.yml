@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://github-contributions.vercel.app
 common:
+  - type: DomainSecurity
+    url: security/github-contribution-chart-generator-domain-security.yml
   - type: Website
     url: https://github-contributions.vercel.app
   - type: PublicAPIsListing
