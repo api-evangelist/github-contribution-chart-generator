@@ -39,7 +39,6 @@ apis:
   - name: GitHub Contribution Chart Generator
     description: "Create an image of your GitHub contributions"
     humanURL: https://github-contributions.vercel.app
-    baseURL: https://github-contributions.vercel.app
     tags:
       - Open Source Projects
     properties:
